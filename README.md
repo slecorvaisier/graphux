@@ -19,8 +19,11 @@ $ npm install
 $ node server.js
 ````
 
-App: http://localhost:3000
-GraphiQL: http://localhost:3000/graphql
+App: 
+<http://localhost:3000>
+
+GraphiQL: 
+<http://localhost:3000/graphql>
 
 the input takes a graphQL request as following:
 ```
